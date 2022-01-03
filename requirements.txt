@@ -1,0 +1,4 @@
+tensorflow==2.4.1
+numpy==1.19.5
+pandas==1.3.5
+PILasOPENCV==2.7
